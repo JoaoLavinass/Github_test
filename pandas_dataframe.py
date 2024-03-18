@@ -41,6 +41,6 @@ df['Meta_score'].fillna(df['Meta_score'].mean(), inplace=True) #fill the missing
 
 print(pd.isna(df).sum()) 
 
-
+print('AAAAAAA')
 
 
